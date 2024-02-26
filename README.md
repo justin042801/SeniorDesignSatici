@@ -1,2 +1,3 @@
-# SeniorDesignSatici
-Collection of code for senior design work
+# 2024 Senior Design Code: Team Satici
+
+Collection of code for ROS2, C, and MicroRos
